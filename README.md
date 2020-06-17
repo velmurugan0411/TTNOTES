@@ -1,2 +1,4 @@
 # TTNOTES
 https://dalbanger.wordpress.com/2014/01/08/a-basic-non-functional-requirements-checklist/
+
+http://mediatranz.com/mastering-non-functional-requirements-paperback.html
